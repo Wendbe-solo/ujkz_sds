@@ -1,0 +1,103 @@
+body{
+ 
+}
+.heade{
+    background-color: orange !important;
+   
+}
+
+.bod{
+    border: 1px solid black;
+}
+.bien{
+    width: 100% !important;
+    background-color: #dbd5d5;
+    
+}
+.acceu{
+    display: flex;
+    justify-content: space-between !important;
+    width: 800px !important;
+    padding: 0;
+}
+.connecter{
+    background-color: #198754 !important;
+    font-weight: 500;
+    
+}
+.inscrire{
+    background-color: yellow !important;
+    font-weight: 500;
+    color: black !important;
+}
+.fote{
+    background-color: #198754;
+    color: white;
+}
+
+
+
+
+.viens{
+    color: red;
+    font-weight: bold;
+}
+
+.formulaire{
+    width: 300px !important;
+    background-color: rgb(202, 202, 202);
+}
+
+.flex{
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 300px !important;
+    padding: 0;
+}
+.formula{
+    border-radius: 10px !important;
+    background-color: yellow;
+    font-weight: 800;
+}
+
+.travail{
+    border-radius: 10px solid red !important;
+}
+
+
+
+
+
+.image{
+    width: 100px;
+    height: 100px;
+    background-color: #dbd5d5;
+    border-radius: 50px;
+    
+}
+
+.premier{
+    display: flex !important;
+}
+
+
+
+<!--index-->
+
+
+.ind1{
+    
+
+}
+
+.second{
+    text-align: justify;
+    font-size: 20px !important;
+}
+
+
+a{
+    text-decoration: none  !important;
+}
+
+    
